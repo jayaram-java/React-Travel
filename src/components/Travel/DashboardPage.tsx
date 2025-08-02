@@ -3,7 +3,7 @@ import { Typography, Box, Card, CardContent } from '@mui/material';
 import Grid from '@mui/material/Grid';
 
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
-import MenuBar from '../Menu/MenuBar';
+
 
 // Sample travel data for the graph
 const travelData = [
